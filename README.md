@@ -29,4 +29,5 @@ Current To-Do's:
   - 23/10/2021 - Went through HTML&CSS library book (Sam's TeachYourself *HTML, CSS, and Javascript*) added pages, created header/nav/multiple pages.
   - 02/11/2021 - Style overhaul. Borrowed heavily from tinyprojects.dev - much easier to edit something that's existing instead of starting from the ground up. Good foundation. Actually figured out and got a better feel for how this all works. Linked pages together.
 
+     
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2eb7cea2-0847-435f-9612-128c48b4ed74/deploy-status)](https://app.netlify.com/sites/growth-mstein2021/deploys)
