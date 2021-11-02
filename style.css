@@ -1,11 +1,96 @@
-body {
-	font-size: 14 px;
-	color: navy;
-	padding-left: 10pt;
-	padding-right: 10pt;
+body{
+  font-family: Source Serif Pro;
+  color:#111111;
+  background-color:#ffffff;
+  padding:16px;
+  text-align: left;
+  max-width: 600px;
+  position: relative;
+  margin: auto;
+  box-sizing: border-box;
 }
 
-a {text-decoration: none;
-	font-weight: bold;
+h1,h2,{
+  font-size:26px;
+  color:#11111;
+}
 
+header{
+  color:#003D5B;
+}
+
+h3,{
+  font-size:24px;
+  color:#111111;
+}
+
+p{
+  font-size:18px;
+  color:#111111;
+  line-height:1.6em;
+}
+
+sup{
+	font-size:10px
+}
+
+a{
+  font-size:18px;
+  color:#D1495B;
+}
+
+nav{
+  padding:8px 0px;
+}
+
+nav ul{
+  list-style-type:none;
+  margin:0px;
+  padding:0px;
+}
+
+nav li{
+  display: inline-block;
+}
+
+nav li:after{
+  margin:0px 8px;
+  content: "/";
+  text-decoration: none;
+}
+
+nav a{
+  color:#00798C;
+}
+
+img{
+  width:100%;
+}
+
+figure{
+  margin:0px;
+}
+
+footer div a{
+  margin:0px 8px;
+}
+
+footer{
+  margin-top:64px;
+  text-align: center;
+}
+
+footer a{
+  font-size:18px;
+  color:#EDAE49;
+}
+
+footer input[type="email"]{
+  padding:4px;
+}
+
+footer button{
+  padding:5px;
+  margin-left:4px;
+  cursor: pointer;
 }
