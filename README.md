@@ -9,18 +9,18 @@ Current To-Do's:
 
   -Style:
 
-    - ~~Add in a colourscheme - see: coloors.co/generate~~
+   - <strike>Add in a colourscheme - see: coloors.co/generate</strike>
 
-    - ~~Figure out font choice.~~
+   - <strike>Figure out font choice.</strike>
 
-    - ~~Create a nav menu/bar~~  
+   - <strike>Create a nav menu/bar</strike>
 
 
   -How do I have a universally-editable footer/header without needing to apply changes to all pages individually?
 
-        -Also: is each blog entry going to just be their own pages? Might as well.
+   - <strike> Also: is each blog entry going to just be their own pages?</strike> Might as well.
 
-          -Do I want a /blog/current_article system or just straight to /current_article?
+       - Do I want a /blog/current_article system or just straight to /current_article?
 
 
 **Changelog:**
