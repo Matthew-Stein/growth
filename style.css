@@ -1,16 +1,29 @@
+:root {
+   --gap: 24px;
+   --content-gap: 20px;
+   --nav-width: 1024px;
+   --main-width: 720px;
+   --header-height: 60px;
+   --footer-height: 60px;
+   --radius: 8px;
+}
+
 body{
-  font-family: Source Serif Pro;
+  font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
   color:#111111;
+  font-size: 18px;
+  line-height: 1.6;
   background-color:#ffffff;
   padding:16px;
   text-align: left;
-  max-width: 600px;
+  max-width: 720px;
   position: relative;
   margin: auto;
   box-sizing: border-box;
 }
 
 h1,h2,{
+  line-height: 1.2;
   font-size:26px;
   color:#11111;
 }
@@ -39,8 +52,12 @@ a{
   color:#D1495B;
 }
 
+nav a, footer div a{
+	margin:0px 5px;
+}
+<!--This is what spaces the links out in the nav area -->
 nav{
-  padding:8px 0px;
+   display:block;
 }
 
 nav ul{
